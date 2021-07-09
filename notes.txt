@@ -1,0 +1,12 @@
+keywords for useful data:
+
+__directory - path to current directory 
+__filename - file name
+require - function to use modules (Common JS)
+module - info about current module (file)
+process - info about env where program is being executed.
+
+=====================================================================================
+
+
+modules - Encapsulated code(only share minimum)
